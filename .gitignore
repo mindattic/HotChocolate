@@ -1,0 +1,5 @@
+﻿
+# Build output / IDE / editor state (never commit)
+bin/
+obj/
+.vs/
